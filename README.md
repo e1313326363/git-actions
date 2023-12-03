@@ -11,7 +11,7 @@ Este repositorio demuestra cómo Dockerizar una aplicación NestJS y configurar 
 
 ### 1. Crear Repositorio
 
-Crea un repositorio público o privado en GitHub. [Enlace al Repositorio](https://github.com/gusrsl/webhooks)
+Crea un repositorio público o privado en GitHub.
 
 ### 2. Preparar el Código Fuente
 
@@ -22,7 +22,7 @@ git commit -m "Primer commit con el código fuente"
 3. Subir Código al Repositorio
 bash
 Copy code
-git remote add origin https://github.com/gusrsl/webhooks.git
+git remote add origin https://github.com/e1313326363/webhooks.git
 git branch -M main
 git push -u origin main
 
